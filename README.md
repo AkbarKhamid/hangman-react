@@ -1,4 +1,5 @@
 ### Hangman in React
+[Live here](https://akbarkhamid.github.io/hangman-react/)
 
 ### How To Play
 [Read here](https://en.wikipedia.org/wiki/Hangman_(game))
